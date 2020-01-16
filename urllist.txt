@@ -1,0 +1,8 @@
+http://coursesandtutors.co.uk/
+http://coursesandtutors.co.uk/MainController/forget_password_form
+http://coursesandtutors.co.uk/MainController/index
+http://coursesandtutors.co.uk/Pages/faqs_page
+http://coursesandtutors.co.uk/MainController/RegistrationForm
+http://coursesandtutors.co.uk/Pages/contact_us
+http://coursesandtutors.co.uk/MainController/advert_details/1
+http://coursesandtutors.co.uk/MainController/advert_details/4
